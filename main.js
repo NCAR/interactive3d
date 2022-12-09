@@ -1,8 +1,8 @@
 import './style.css';
 import * as THREE from 'three';
-import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls';
+import {OrbitControls} from './node_modules/three/examples/jsm/controls/OrbitControls';
 // import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
-import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader.js';
+import {GLTFLoader} from './node_modules/three/examples/jsm/loaders/GLTFLoader.js';
 
 // Setup
 
@@ -25,7 +25,7 @@ camera.position.setY(10);
 
 
 const gltfLoader = new GLTFLoader();
-const url = 'objects/Greenland.glb';
+const url = './objects/Greenland.glb';
 // const texture = new THREE.TextureLoader().load('img/i.1.jpg');
 
 // https://stackoverflow.com/questions/37884013/adding-video-as-texture-in-three-js
