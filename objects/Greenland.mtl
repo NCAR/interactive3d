@@ -1,0 +1,13 @@
+# Blender MTL File: 'Greenland_Streamlines.3.blend'
+# Material Count: 1
+
+newmtl Greenland
+Ns 402.071308
+Ka 0.568182 0.568182 0.568182
+Kd 0.800000 0.800000 0.800000
+Ks 0.406818 0.406818 0.406818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_d /Users/mrehme/3.Project/Herrington/graphics/gltopoNM_fromPDF.png
