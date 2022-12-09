@@ -4,6 +4,8 @@ import {OrbitControls} from 'node_modules/three/examples/jsm/controls/OrbitContr
 // import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
 import {GLTFLoader} from 'node_modules/three/examples/jsm/loaders/GLTFLoader.js';
 
+console.log("no .");
+
 // Setup
 
 const scene = new THREE.Scene();
