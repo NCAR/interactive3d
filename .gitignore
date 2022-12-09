@@ -1,3 +1,11 @@
+# MR
+.*
+!.gitignore
+~*
+public/
+scratch/
+
+
 _site/
 .sass-cache
 .jekyll-metadata
