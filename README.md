@@ -1,6 +1,8 @@
 # Interactive 3D Visualization Website Test
 
-*** Update Later ***
+[See test site here](https://ncar.github.io/Interactive3DTest/)
+
+*** Update This Later ***
 
 
 ## Remove Template Stuff Later =>
