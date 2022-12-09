@@ -1,10 +1,10 @@
 console.log("main.js works, but the node_modules are not found.");
 
 // import './style.css';
-import * as THREE from '/node_modules/three';
-import {OrbitControls} from '/node_modules/three/examples/jsm/controls/OrbitControls.js';
+import * as THREE from './node_modules/three';
+import {OrbitControls} from './node_modules/three/examples/jsm/controls/OrbitControls.js';
 // import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
-import {GLTFLoader} from '/node_modules/three/examples/jsm/loaders/GLTFLoader.js';
+import {GLTFLoader} from './node_modules/three/examples/jsm/loaders/GLTFLoader.js';
 
 
 // Setup
