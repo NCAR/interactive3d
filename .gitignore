@@ -4,6 +4,8 @@
 ~*
 public/
 scratch/
+# node_modules/
+# ^^ Will bundle these using webpack (I think)
 
 
 _site/
