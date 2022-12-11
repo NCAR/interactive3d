@@ -4,7 +4,7 @@
 ~*
 public/
 scratch/
-# node_modules/
+node_modules/
 # ^^ Will bundle these using webpack (I think)
 
 
