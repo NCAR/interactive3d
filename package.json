@@ -2,6 +2,5 @@
   "name": "interactive",
   "version": "0.0.0",
   "dependencies": {
-    "three": "^0.128.0"
   }
 }
