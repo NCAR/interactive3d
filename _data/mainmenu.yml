@@ -1,5 +1,5 @@
 menu:
   - title: Interactive Page
-    url: /pages/interactive.html
+    url: ./pages/interactive.html
   - title: Code
-    url: /link-to-repo-here
+    url: https://github.com/NCAR/interactive3d
