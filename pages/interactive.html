@@ -106,7 +106,7 @@ function createScene() {
 
 
     BABYLON.SceneLoader.ImportMesh(
-            "", "/objects/", "Greenland.glb", scene, function (newMeshes) {
+            "", "../objects/", "Greenland.glb", scene, function (newMeshes) {
 
         camera.target = newMeshes[0];
         var streamlines = newMeshes[1];
@@ -116,7 +116,7 @@ function createScene() {
 
         var videoTexture = new BABYLON.VideoTexture(
             "video",
-            ["/media/Intx.3_ortho.mp4"],
+            ["../media/Intx.3_ortho.mp4"],
             scene,
             false,
             false,

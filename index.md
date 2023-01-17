@@ -7,8 +7,8 @@ banner-description: Interactive 3D Visualization
 
 
 <section>
-    <a href="/pages/interactive.html">
-        <img src="/images/intx-banner.png"
+    <a href="./pages/interactive.html">
+        <img src="./images/intx-banner.png"
             alt="Interactive Greenland Streamlines Banner">
     </a>
 </section>

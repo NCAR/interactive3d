@@ -2,7 +2,7 @@
 title: Interactive 3D Visualization Website TEST
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Update Later
+  Interactive 3D Visualization Website TEST
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/NCAR/interactive3d.git"
 github_username:
