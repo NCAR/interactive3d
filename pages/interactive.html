@@ -48,10 +48,15 @@
 
 /*
     TODO Separate this script into JS file(s). Will probably need to use
-    Webpack to pack the JS file(s) into one entry point. Also, the code
-    from the Babylon examples uses "var" heavily, which makes the variables
-    global, but converting to "let" breaks the code because of the scope.
-    It should be rewritten to use "let", if possible.
+    Webpack to pack the JS file(s) into one entry point.
+
+    TODO Convert the above scripts to static files/libraries vs linking to
+    the Babylon examples, which could change.
+    
+    TODO The code from the Babylon examples uses "var" heavily,
+    which I believe makes the variables global, but converting to "let"
+    breaks the code because of the scope. It should probably be rewritten
+    to use "let", if possible.
 */
 
 
