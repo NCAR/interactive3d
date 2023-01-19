@@ -6,7 +6,6 @@ public/
 scratch/
 node_modules/
 
-
 _site/
 .sass-cache
 .jekyll-metadata
