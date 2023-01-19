@@ -15,6 +15,8 @@ banner-description: Interactive 3D Visualization
 
 # A Test Interactive Visualization
 
+Testing
+
 This is a visualization adapted for testing interactive 3D capabilities on the web. It depicts wind speed data from a simulation using the System for Integrated Modeling of the Atmosphere (SIMA) variable-resolution grid over Greenland.
 
 - Computational Modeling: Adam Herrington (NCAR/CGD)
