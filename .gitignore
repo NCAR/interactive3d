@@ -5,6 +5,7 @@
 public/
 scratch/
 node_modules/
+Dockerfile
 
 _site/
 .sass-cache
